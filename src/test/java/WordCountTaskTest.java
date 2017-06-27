@@ -1,5 +1,6 @@
 import org.junit.Test;
-import org.sparkexample.WordCountTask;
+
+import com.dbbyte.WordCountTask;
 
 import java.net.URISyntaxException;
 
